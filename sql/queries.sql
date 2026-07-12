@@ -55,9 +55,8 @@ GROUP BY product
 ORDER BY total_sales DESC;
 
 
--- ============================================================
 -- QUERY 5 — Performa per Region
--- ============================================================
+
 SELECT
     region,
     SUM(total_sales) AS total_sales
