@@ -1,10 +1,12 @@
 Nike Sales Performance Analysis
 
 1. Latar Belakang Masalah
+   
 Nike mendistribusikan produknya lewat berbagai retailer partner (Foot Locker, West Gear, Amazon, dll) di berbagai region Amerika Serikat, melalui 3 metode penjualan berbeda (In-store, Outlet, Online). Analisis ini bertujuan memahami performa penjualan periode 2020-2021 untuk mengidentifikasi retailer, produk, dan region unggulan — guna mendukung keputusan strategi distribusi dan alokasi marketing.
 
 
 2. Pertanyaan Bisnis
+   
 - Bagaimana tren Total Sales dari bulan ke bulan (2020-2021)?
 - Retailer mana yang paling banyak berkontribusi ke Total Sales?
 - Sales Method mana (In-store/Outlet/Online) yang paling menguntungkan?
@@ -13,6 +15,7 @@ Nike mendistribusikan produknya lewat berbagai retailer partner (Foot Locker, We
 
 
 3. Dataset
+   
 Sumber: Nike Sales Dataset
 Jumlah baris: ±9.360 transaksi
 Periode data: Januari 2020 - Desember 2021
@@ -66,6 +69,7 @@ Performa Region
 
 
 7. Rekomendasi Bisnis
+   
 - Perkuat kerja sama dengan West Gear dan Foot Locker, karena keduanya penyumbang penjualan terbesar, pertimbangkan memberi mereka stok lebih banyak atau program insentif khusus
 - Cari tahu kenapa penjualan lewat Amazon masih kecil, perlu ditelusuri apakah karena produk yang dijual di Amazon terbatas, harga kurang bersaing, atau kurang promosi
 - Tingkatkan penjualan lewat kanal Online, karena tren belanja online terus berkembang, kanal Online Nike yang masih kecil punya peluang besar untuk digenjot
@@ -74,9 +78,11 @@ Performa Region
 
 
 8. Dashboard
+   
 Link Looker Studio Dashboard: (https://datastudio.google.com/reporting/dc744747-bdc7-4e58-bd69-8d0de1084041)
 
 
 9. Validasi Data
+    
 Seluruh insight dalam laporan ini divalidasi lewat 2 metode analisis independen (Excel PivotTable dan SQL query di MySQL), dengan hasil yang 100% konsisten — menunjukkan keandalan proses cleaning dan analisis data.
 
