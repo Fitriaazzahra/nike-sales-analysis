@@ -24,19 +24,19 @@ Kolom utama: Invoice Date, Product, Region, Retailer, Sales Method, State, Price
 
 4. Tools yang Digunakan
    
-1. Excel — data cleaning (Text to Columns, cek missing value dan duplikat) dan analisis awal (PivotTable)
-2. MySQL (phpMyAdmin/XAMPP) — validasi ulang hasil analisis lewat SQL query, cross-check dengan hasil Excel
-3. Google Sheets — jembatan data ke Looker Studio
-4. Looker Studio — dashboard interaktif
+- Excel digunakan untuk data cleaning (Text to Columns, cek missing value dan duplikat) dan analisis awal (PivotTable)
+- MySQL (phpMyAdmin/Laragon) digunakan untuk validasi ulang hasil analisis lewat SQL query, cross-check dengan hasil Excel
+- Google Sheets digunakan untuk jembatan data ke Looker Studio
+- Looker Studio digunakan untuk dashboard interaktif
 
 
 5. Proses Kerja
 
-1. Data Cleaning — memisahkan kolom (Text to Columns), verifikasi tidak ada missing value dan duplikat, memastikan format tanggal terbaca benar
-2. Analisis via Excel PivotTable — menjawab 5 pertanyaan bisnis
-3. Validasi via SQL (MySQL) — menjalankan query yang sama untuk cross-check hasil Excel — hasil 100% konsisten di kedua metode
-4. Dashboard — visualisasi hasil di Looker Studio dengan scorecard, line chart, bar chart, donut chart, dan pie chart
-5. Insight dan Rekomendasi — kesimpulan bisnis dari temuan data
+- Data Cleaning untuk memisahkan kolom (Text to Columns), verifikasi tidak ada missing value dan duplikat, memastikan format tanggal terbaca benar
+- Analisis via Excel PivotTable untuk menjawab 5 pertanyaan bisnis
+- Validasi via SQL (MySQL) untuk menjalankan query yang sama untuk cross-check hasil Excel — hasil 100% konsisten di kedua metode
+- Dashboard untuk visualisasi hasil di Looker Studio dengan scorecard, line chart, bar chart, donut chart, dan pie chart
+- Insight dan Rekomendasi untuk kesimpulan bisnis dari temuan data
 
 
 6. Key Findings (Insight)
