@@ -40,6 +40,7 @@ Kolom utama: Invoice Date, Product, Region, Retailer, Sales Method, State, Price
 
 
 6. Key Findings (Insight)
+   
 Tren Penjualan Bulanan
 - Penjualan tahun 2021 ($6.808.400) hampir 4 kali lebih besar dibanding tahun 2020 ($1.820.875)
 - Setiap bulan di tahun 2021 selalu lebih tinggi dibanding bulan yang sama di tahun 2020
