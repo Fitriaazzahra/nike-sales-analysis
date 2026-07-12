@@ -89,9 +89,7 @@ Siapkan stok dan promosi lebih awal menjelang akhir tahun — karena Desember se
 
 8. Dashboard
 
-Link Looker Studio Dashboard: [isi link kamu di sini, pastikan akses "Anyone with the link can view"]
-
-Show Image
+Link Looker Studio Dashboard: (https://datastudio.google.com/reporting/dc744747-bdc7-4e58-bd69-8d0de1084041)
 
 
 9. Validasi Data
